@@ -10,9 +10,9 @@
 
 ## Installation
 
-Run npm install from command line then run npm run start
+- Run npm install from command line then run npm run start
 
-Open http://localhost:3001
+- Then Open http://localhost:3001
 
 # Links
 -----------------------------------------------------------------------
