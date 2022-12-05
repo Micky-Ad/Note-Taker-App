@@ -16,9 +16,8 @@ Open http://localhost:3001
 
 # Links
 -----------------------------------------------------------------------
-
-### [Repository](https://github.com/Micky-Ad/Note-Taker-App)
-### [Deployed app on heroku] (https://limitless-hollows-59505.herokuapp.com/notes)
+[Repository](https://github.com/Micky-Ad/Note-Taker-App)
+[Deployed app on heroku] (https://limitless-hollows-59505.herokuapp.com/notes)
 
 # Screenshot:
 ----------------------------------------------------------------------
